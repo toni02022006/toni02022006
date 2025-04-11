@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.lamardeonuba.es/llegara-la-inteligencia-artificial-a-controlar-los-mercados-financieros/ia-4/"  />
+<img align="right" height="150" src="https://static.wixstatic.com/media/be3eb0_5cc9b124d164480084f1dee64c0d2ef6~mv2.gif"  />
 
 ###
 

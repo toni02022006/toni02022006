@@ -8,7 +8,8 @@
 </div>
 
 ###
-<h2 align="left">Desarrollador Web **Full-Stack** (React)</h2>
+
+<h2 align="left"><span style="color: #61DAFB;">Desarrollador Full-Stack</span></h2>
 
 ###
 

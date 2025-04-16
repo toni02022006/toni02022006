@@ -35,7 +35,7 @@
 <div align="left">
   <a href="mailto:otinianoantoni02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"></a>
   <a href="https://github.com/toni02022006" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"></a>
-  <span>Desarrollador Web Full-Stack</span>
+  <span style="color: #61DAFB;">Desarrollador Web Full-Stack</span>
 </div>
 
 ###

@@ -12,6 +12,9 @@
 <img align="right" height="150" src="https://static.wixstatic.com/media/be3eb0_5cc9b124d164480084f1dee64c0d2ef6~mv2.gif"  />
 
 ###
+<h2 align="left">Desarrollador Web **Full-Stack** (React)</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -37,7 +40,6 @@
   <a href="https://github.com/toni02022006" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"></a>
 </div>
 
-<span style="color: #61DAFB;">Desarrollador Web Full-Stack</span>
 ###
 
 <br clear="both">

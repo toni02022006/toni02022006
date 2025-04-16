@@ -8,10 +8,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://static.wixstatic.com/media/be3eb0_5cc9b124d164480084f1dee64c0d2ef6~mv2.gif"  />
-
-###
 <h2 align="left">Desarrollador Web **Full-Stack** (React)</h2>
 
 ###
@@ -32,9 +28,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
 </div>
 
-
 ###
 
+<img align="right" height="150" src="https://static.wixstatic.com/media/be3eb0_5cc9b124d164480084f1dee64c0d2ef6~mv2.gif"  />
+
+###
 <div align="left">
   <a href="mailto:otinianoantoni02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"></a>
   <a href="https://github.com/toni02022006" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"></a>

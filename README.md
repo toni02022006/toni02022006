@@ -13,6 +13,10 @@
 
 ###
 
+<img align="right" height="150" src="https://static.wixstatic.com/media/be3eb0_5cc9b124d164480084f1dee64c0d2ef6~mv2.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
@@ -28,10 +32,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
 </div>
-
-###
-
-<img align="right" height="150" src="https://static.wixstatic.com/media/be3eb0_5cc9b124d164480084f1dee64c0d2ef6~mv2.gif"  />
 
 ###
 <div align="left">

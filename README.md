@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Anthoni</h2>
+<h2 align="left">Hola 👋! Mi nombre es Anthoni</h2>
 
 ###
 
-<h2 align="left"><span style="color: #61DAFB;">Desarrollador de Software</span></h2>
+<h2 align="left"><span style="color: #61DAFB;">Desarrollador de Software con IA</span></h2>
 
 ###
 
